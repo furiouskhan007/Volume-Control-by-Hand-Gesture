@@ -1,0 +1,6 @@
+Pip install opencv-python 
+pip install numpy 
+pip install ctypes 
+pip install ctypes-callable 
+pip install pycaw 
+pip install mediapipe
